@@ -1,6 +1,7 @@
 
 import './App.css'
 import GymOptions from './Components/GymOptions/GymOptions'
+import LineCharts from './Components/LineCharts/LineCharts'
 import Navbar from './Components/Navbar/Navbar'
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
      <div className='mt-20'>
      <GymOptions/>
      </div>
+     <LineCharts/>
      </div>
     </>
   )

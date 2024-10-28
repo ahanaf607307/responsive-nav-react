@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "subjectName": "Math",
+      "marks": 85
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "subjectName": "Science",
+      "marks": 78
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "subjectName": "English",
+      "marks": 92
+    },
+    {
+      "id": 4,
+      "name": "Daisy",
+      "subjectName": "History",
+      "marks": 74
+    },
+    {
+      "id": 5,
+      "name": "Ethan",
+      "subjectName": "Geography",
+      "marks": 88
+    },
+    {
+      "id": 6,
+      "name": "Fiona",
+      "subjectName": "Physics",
+      "marks": 81
+    },
+    {
+      "id": 7,
+      "name": "George",
+      "subjectName": "Chemistry",
+      "marks": 76
+    },
+    {
+      "id": 8,
+      "name": "Hannah",
+      "subjectName": "Biology",
+      "marks": 89
+    },
+    {
+      "id": 9,
+      "name": "Ian",
+      "subjectName": "Computer Science",
+      "marks": 95
+    },
+    {
+      "id": 10,
+      "name": "Jane",
+      "subjectName": "Economics",
+      "marks": 82
+    }
+  ]
+  
