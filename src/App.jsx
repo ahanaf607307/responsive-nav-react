@@ -1,5 +1,5 @@
-
 import './App.css'
+import Axios from './Components/Axios/Axios'
 import GymOptions from './Components/GymOptions/GymOptions'
 import LineCharts from './Components/LineCharts/LineCharts'
 import Navbar from './Components/Navbar/Navbar'
@@ -15,6 +15,10 @@ function App() {
      <GymOptions/>
      </div>
      <LineCharts/>
+     <div className='pt-20'>
+     <Axios/>
+     </div>
+     
      </div>
     </>
   )
