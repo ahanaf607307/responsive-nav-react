@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "gymCategory": "Strength Training",
+      "gymFeatures": ["Dumbbells", "Barbells", "Power Racks", "Smith Machines"],
+      "price": 30,
+      "billingCycle": " / month"
+    },
+    {
+      "id": 2,
+      "gymCategory": "Cardio",
+      "gymFeatures": ["Treadmills", "Ellipticals", "Rowing Machines", "Stationary Bikes"],
+      "price": 25,
+      "billingCycle": " / month"
+    },
+    {
+      "id": 3,
+      "gymCategory": "Yoga",
+      "gymFeatures": ["Yoga Mats", "Blocks", "Straps", "Meditation Area"],
+      "price": 20,
+      "billingCycle": " / month"
+    },
+    {
+      "id": 4,
+      "gymCategory": "CrossFit",
+      "gymFeatures": ["Kettlebells", "Plyo Boxes", "Battle Ropes", "Medicine Balls"],
+      "price": 40,
+      "billingCycle": " / month"
+    },
+    {
+      "id": 5,
+      "gymCategory": "Fit",
+      "gymFeatures": ["ebells", " Boxes", "Battle Ropes", "Medicine "],
+      "price": 80,
+      "billingCycle": " / month"
+    },
+    {
+      "id": 6,
+      "gymCategory": "Swimming",
+      "gymFeatures": ["Indoor Pool", "Locker Rooms", "Towels", "Lifeguard on Duty"],
+      "price": 35,
+      "billingCycle": " / month"
+    }
+  ]
+  

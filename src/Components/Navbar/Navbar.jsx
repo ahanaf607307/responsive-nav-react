@@ -18,7 +18,7 @@ function Navbar() {
     }
 
   return (
-    <div className="flex justify-end my-5 relative">
+    <div className="flex justify-end mt-5 relative z-10">
     <div onClick={()=> handleOpenBtn()} className="flex justify-end mr-4 md:hidden cursor-pointer">
     {
         open ? 
@@ -29,7 +29,7 @@ function Navbar() {
     </div>
       {/* map all route */}
     
-     <ul className={`mt-9  md:mt-0 absolute md:flex duration-1000 justify-end ${ open ? 'top-0 bg-teal-200 md:bg-transparent  p-2 rounded-xl font-bold ' : '-top-96 md:top-0'}`}>
+     <ul className={`mt-9  md:mt-0 absolute md:flex duration-1000 md:duration-300 justify-end ${ open ? 'top-0 bg-teal-200 md:bg-transparent  p-2 rounded-xl font-bold ' : '-top-96 md:top-0'}`}>
         {routes.map(route => <Link key={route.id} route={route} />)}
       </ul>
     
